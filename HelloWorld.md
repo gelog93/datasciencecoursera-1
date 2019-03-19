@@ -1,2 +1,2 @@
-This is an R Markdown document
-------------------------------
+This is a markdown file
+-----------------------
